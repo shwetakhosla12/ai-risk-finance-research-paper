@@ -6,7 +6,7 @@ This repository contains my research paper analyzing the systemic risk drivers b
 
 ## Paper
 See the full paper here:
-[Download PDF](./YourPaperName.pdf)
+[Download PDF](file:///Users/steve/Downloads/UNDERSTANDING%20THE%202007%2008%20FINANCIAL%20CRISIS%20(1).pdf)
 
 ## Abstract
 - Empirical analysis of systemic risk propagation during the 2007–08 crisis
