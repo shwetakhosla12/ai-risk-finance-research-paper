@@ -2,7 +2,7 @@
 
 **Author:** Shweta Khosla
 
-This repository hosts my full research paper analyzing systemic risk drivers behind the global financial crisis, focusing on housing bubble dynamics, contagion effects, and regulatory implications for modern risk governance and AI-enabled monitoring.
+This repository hosts my full research paper analyzing systemic risk drivers behind the global financial crisis.
 
 ## Full Research Paper
 [Download Full Research Paper (PDF)](./Systemic_Risk_Financial_Crisis_Shwetakhosla.pdf)
