@@ -5,7 +5,7 @@
 This repository hosts my full research paper analyzing systemic risk drivers behind the global financial crisis.
 
 ## Full Research Paper
-[Download Full Research Paper (PDF)](./Systemic_Risk_Financial_Crisis_Shwetakhosla.pdf)
+[[Download Full Research Paper (PDF)](./Systemic_Risk_Financial_Crisis_Shwetakhosla.pdf)](https://github.com/shwetakhosla12/ai-risk-finance-research-paper/blob/e73452605f0f09c64b24ce0d2849003c2da220aa/UNDERSTANDING%20THE%202007%2008%20FINANCIAL%20CRISIS.pdf)
 
 ## Abstract
 - Empirical analysis of systemic risk propagation during the 2007–08 crisis
